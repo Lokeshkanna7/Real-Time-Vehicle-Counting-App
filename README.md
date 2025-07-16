@@ -50,4 +50,4 @@ vehicle_counter_app/
 ├── uploads/ # Stores uploaded videos
 │
 ├── vehicle_counter_app.py # Main Flask application
-└── README.md # Project documentation
+└── README.md
